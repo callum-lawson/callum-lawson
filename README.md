@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Hi, I'm Callum 😊
+
+- 🌱 My background's in quantitative ecology: I spent 8+ years as a postdoc in the UK, the Netherlands, and Germany, building models of ecological and evolutionary dynamics
+- 🎲 I enjoy studying uncertainty in complex systems, including ecological risks from climate change and credit risks in the financial industry
+- 🤖 I'm currently working on using ideas from ecology and evolution to develop new insights on artificial intelligence
+
+If you'd like to get in touch, you can reach me at `callumrlawson [at] gmail [dot] com`.
+
 <!--
 **callum-lawson/callum-lawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
