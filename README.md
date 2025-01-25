@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Hi, I'm Callum 😊
 
 - 🌱 My background's in quantitative ecology: I spent 8+ years as a postdoc in the UK, the Netherlands, and Germany, building models of ecological and evolutionary dynamics
